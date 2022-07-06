@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xu Yan&#39;s Homepage on Xu Yan&#39;s Homepage</title>
-    <link>https://yochengliu.github.io/</link>
+    <link>https://yanx27.github.io/</link>
     <description>Recent content in Xu Yan&#39;s Homepage on Xu Yan&#39;s Homepage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
@@ -10,92 +10,92 @@
     
     <item>
       <title>Friends</title>
-      <link>https://yochengliu.github.io/friends/</link>
+      <link>https://yanx27.github.io/friends/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://yochengliu.github.io/friends/</guid>
+      <guid>https://yanx27.github.io/friends/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://stephenjia.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Xu Jia&lt;/font&gt;&lt;/a&gt;, &lt;a href=&#34;http://www.nlpr.ia.ac.cn/mmc/homepage/jygao/index.html&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Junyu Gao&lt;/font&gt;&lt;/a&gt;, &lt;a href=&#34;http://www.cbsr.ia.ac.cn/users/sfzhang/&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Shifeng Zhang&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Decoupled Representation Learning for Skeleton-Based Gesture Recognition</title>
-      <link>https://yochengliu.github.io/publication/6-conference_cvpr2020/</link>
+      <link>https://yanx27.github.io/publication/6-conference_cvpr2020/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/publication/6-conference_cvpr2020/</guid>
+      <guid>https://yanx27.github.io/publication/6-conference_cvpr2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploration of Deep Learning in 3D Point Cloud Processing</title>
-      <link>https://yochengliu.github.io/talk/7-jiangmen/</link>
+      <link>https://yanx27.github.io/talk/7-jiangmen/</link>
       <pubDate>Thu, 01 Aug 2019 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/7-jiangmen/</guid>
+      <guid>https://yanx27.github.io/talk/7-jiangmen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
-      <link>https://yochengliu.github.io/publication/5-conference_iccv2019/</link>
+      <link>https://yanx27.github.io/publication/5-conference_iccv2019/</link>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/publication/5-conference_iccv2019/</guid>
+      <guid>https://yanx27.github.io/publication/5-conference_iccv2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
-      <link>https://yochengliu.github.io/publication/4-conference_cvpr2019/</link>
+      <link>https://yanx27.github.io/publication/4-conference_cvpr2019/</link>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/publication/4-conference_cvpr2019/</guid>
+      <guid>https://yanx27.github.io/publication/4-conference_cvpr2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning in 3D Point Cloud Processing</title>
-      <link>https://yochengliu.github.io/talk/6-cvte/</link>
+      <link>https://yanx27.github.io/talk/6-cvte/</link>
       <pubDate>Fri, 24 May 2019 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/6-cvte/</guid>
+      <guid>https://yanx27.github.io/talk/6-cvte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning (CNN) in 3D Point Cloud Processing</title>
-      <link>https://yochengliu.github.io/talk/5-msra/</link>
+      <link>https://yanx27.github.io/talk/5-msra/</link>
       <pubDate>Tue, 30 Apr 2019 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/5-msra/</guid>
+      <guid>https://yanx27.github.io/talk/5-msra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometric Relation Learning in 3D Point Cloud Analysis</title>
-      <link>https://yochengliu.github.io/talk/4-sffai25/</link>
+      <link>https://yanx27.github.io/talk/4-sffai25/</link>
       <pubDate>Sun, 21 Apr 2019 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/4-sffai25/</guid>
+      <guid>https://yanx27.github.io/talk/4-sffai25/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
-      <link>https://yochengliu.github.io/talk/3-ai-forum/</link>
+      <link>https://yanx27.github.io/talk/3-ai-forum/</link>
       <pubDate>Sat, 30 Mar 2019 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/3-ai-forum/</guid>
+      <guid>https://yanx27.github.io/talk/3-ai-forum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://yochengliu.github.io/post/jupyter/</link>
+      <link>https://yanx27.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yochengliu.github.io/post/jupyter/</guid>
+      <guid>https://yanx27.github.io/post/jupyter/</guid>
       <description>
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
@@ -155,28 +155,28 @@ rm Untitled.md
     
     <item>
       <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
-      <link>https://yochengliu.github.io/talk/2-mm2018/</link>
+      <link>https://yanx27.github.io/talk/2-mm2018/</link>
       <pubDate>Wed, 24 Oct 2018 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/2-mm2018/</guid>
+      <guid>https://yanx27.github.io/talk/2-mm2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
-      <link>https://yochengliu.github.io/publication/3-conference_mm2018/</link>
+      <link>https://yanx27.github.io/publication/3-conference_mm2018/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/publication/3-conference_mm2018/</guid>
+      <guid>https://yanx27.github.io/publication/3-conference_mm2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>https://yochengliu.github.io/tutorial/example/</link>
+      <link>https://yanx27.github.io/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/tutorial/example/</guid>
+      <guid>https://yanx27.github.io/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -193,19 +193,19 @@ rm Untitled.md
     
     <item>
       <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
-      <link>https://yochengliu.github.io/publication/2-journal_jprs2018/</link>
+      <link>https://yanx27.github.io/publication/2-journal_jprs2018/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/publication/2-journal_jprs2018/</guid>
+      <guid>https://yanx27.github.io/publication/2-journal_jprs2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Context-Aware Cascade Network for Semantic Labeling in VHR Image</title>
-      <link>https://yochengliu.github.io/talk/1-icip2017/</link>
+      <link>https://yanx27.github.io/talk/1-icip2017/</link>
       <pubDate>Mon, 18 Sep 2017 13:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/talk/1-icip2017/</guid>
+      <guid>https://yanx27.github.io/talk/1-icip2017/</guid>
       <description></description>
     </item>
     
